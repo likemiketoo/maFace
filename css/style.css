@@ -1,16 +1,13 @@
-body
-{
-    background-color:lightblue;
+body{
+    background-color: teal;
 }
 
-.jumbotron
-{
+.jumbotron{
     height: 500px;
     margin: 0 auto;
     text-align: center;
 }
 
-.jumbotron img
-{
-    height: 300px;
+.jumbotron img{
+    height:250px;
 }
