@@ -1,0 +1,16 @@
+body
+{
+    background-color:lightblue;
+}
+
+.jumbotron
+{
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.jumbotron img
+{
+    height: 300px;
+}
