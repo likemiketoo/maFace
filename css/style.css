@@ -5,12 +5,15 @@ body
 
 .jumbotron
 {
-    height: 500px;
+    height: 100px;
     margin: 0 auto;
     text-align: center;
+    height: 250px;
+    width: 400px;   
 }
 
 .jumbotron img
 {
-    height: 300px;
+    height: 100px;
+    width: 100px;
 }
