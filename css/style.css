@@ -1,16 +1,11 @@
 body
 {
-    background-color:lightblue;
+    text-align:center;
+    background-color:black;
+    margin:auto;
 }
 
-.jumbotron
-{
-    height: 500px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.jumbotron img
-{
-    height: 300px;
+.jumbotronpic{
+text-align:center;
+margin: auot;
 }
