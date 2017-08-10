@@ -8,9 +8,11 @@ body
     height: 500px;
     margin: 0 auto;
     text-align: center;
+    overflow: hidden;
 }
 
 .jumbotron img
 {
-    height: 300px;
+    height: auto;
+    max-width: 250px;
 }
