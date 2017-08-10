@@ -1,12 +1,13 @@
 body
 {
     background-color:lightblue;
+    text-align: center;
 }
 
 .jumbotron
 {
     height: 500px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     text-align: center;
 }
 
